@@ -13,6 +13,7 @@ https://stackoverflow.com/questions/44249150/set-constraintlayout-width-to-match
 https://stackoverflow.com/questions/7248957/android-button-layout-get-two-buttons-side-by-side-across-entire-screen
 https://developer.android.com/develop/ui/views/layout/constraint-layout
 https://medium.com/@ahmedjawadaman/xml-layout-in-android-explained-a-complete-beginners-guide-with-ahmed-jawad-aman-ddcf28bfd708
+OpenAI, ChatGPT, conceptual assistance with Android ListView item selection and removal (January 2026)
 
 ## Verbal Collaboration
 
